@@ -8,7 +8,7 @@ vue全家桶 vue+vuex+vue-router+axios+localstorage+sass 还有就是vant-ui组�
 暂无
 
 ### 初次见面 请多指教
-项目源码地址：[vue-fruit-shop](https://github.com/dabaoRain/vueFruitShop)，觉得还可以的话给个star 在这先谢谢了~<br>
+觉得还可以的话给个star 在这先谢谢了~<br>
 做前端有时间了，第一次在github发项目,有什么不足的地方，大家多多指教！所以帮忙star鼓励下！🙏
 
 ## 写在前面
@@ -39,7 +39,7 @@ vue全家桶 vue+vuex+vue-router+axios+localstorage+sass 还有就是vant-ui组�
 
 ## 开发目的
 
-一直在学习vue，就尝试自己开发一个项目放到github上，与各位多多交流，更好的晚上自己的技术
+一直在学习vue，就尝试自己开发一个项目放到github上，与各位多多交流，更好的完善自己的技术
 
 
 ## 实现功能
@@ -58,11 +58,7 @@ npm run dev
 npm run build
 ```
 
-## 贵在坚持  
-
-   冰冻三尺非一日之寒，与君共勉。
-   
-
+ 
 ## 写在最后
 数据都来自于水果网官网如有侵权请请联系删除这个小项目做的有点粗糙可以说是非常粗糙、各位将就看看吧、大佬轻喷、还有就是我要厚着脸皮要个star 感谢 🙏
 以上readme 也是参考github上构建格式，以后会更加完善。
